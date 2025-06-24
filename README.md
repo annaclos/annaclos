@@ -26,8 +26,6 @@ Uso de bancos de dados relacionais e NoSQL com fluidez
 Suporte técnico e correção de bugs para evolução contínua das aplicações
 
 💼 Entre em contato comigo:
-<div align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
-
   <a href="https://www.instagram.com/kxmvkbk" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
