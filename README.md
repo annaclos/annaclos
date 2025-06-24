@@ -26,7 +26,17 @@ Uso de bancos de dados relacionais e NoSQL com fluidez
 Suporte técnico e correção de bugs para evolução contínua das aplicações
 
 💼 Entre em contato comigo:
-<div> <a href="https://www.instagram.com/kxmvkbk" target="_blank"> <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"> </a> 
-<a href="mailto:anna.clara16f@yahoo.com.br" target="_blank"> <img src="https://img.shields.io/badge/-Yahoo-%23444?style=for-the-badge&logo=yahoo&logoColor=white">
+<div style="display: flex; gap: 10px; align-items: center;">
+  <a href="https://www.instagram.com/kxmvkbk" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  </a>
 
-<a href="https://www.linkedin.com/in/annacosantos/" target="_blank"> <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"> </a> </div>
+  <a href="mailto:anna.clara16f@yahoo.com.br" target="_blank">
+    <img src="https://img.shields.io/badge/-Yahoo-%23444?style=for-the-badge&logo=yahoo&logoColor=white">
+  </a>
+
+  <a href="https://www.linkedin.com/in/annacosantos/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+</div>
+
