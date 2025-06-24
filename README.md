@@ -26,17 +26,19 @@ Uso de bancos de dados relacionais e NoSQL com fluidez
 Suporte técnico e correção de bugs para evolução contínua das aplicações
 
 💼 Entre em contato comigo:
-<div style="display: flex; gap: 10px; align-items: center;">
+<div align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
+
   <a href="https://www.instagram.com/kxmvkbk" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
 
   <a href="mailto:anna.clara16f@yahoo.com.br" target="_blank">
-    <img src="https://img.shields.io/badge/-Yahoo-%23444?style=for-the-badge&logo=yahoo&logoColor=white">
+    <img src="https://img.shields.io/badge/-Yahoo-%2300acee?style=for-the-badge&logo=yahoo&logoColor=white" alt="Yahoo Mail">
   </a>
 
   <a href="https://www.linkedin.com/in/annacosantos/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
+
 </div>
 
